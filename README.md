@@ -5,6 +5,10 @@
 - 👯 I’m looking to collaborate with other data analysts
 - 💬 Ask me about React.js, Django, SQL, Data Analysis
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" />][LinkedIn](https://www.linkedin.com/in/krishna-nepali-2694621a7/)
+
 <!--- 
 ### Connect with me:
 

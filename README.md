@@ -1,7 +1,11 @@
 ### Passionate about Data. I am a Student & a Developer.
 
-- 🔭 I’m currently working on visual analysis (Tableau)
-- 🌱 I’m currently learning BI tools
+- 🔭 I’m currently learning and working as a Data Analyst and a Web Developer.
+- 🌱 I’m very good in:
+-       - Data Modeling
+-       - Creating Reports or Interactive Dashboard
+-       - Python programming
+-       - Web development using React.js, and Django.
 - 👯 I’m looking to collaborate with other data analysts
 - 💬 Ask me about React.js, Django, SQL, Data Analysis
 
